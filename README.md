@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Rinat
+#### I am Junior Front-End Developer :computer:
+I study on my own and occasionally referring to a mentor :boy:, I started about a year ago :calendar: with HTML, then CSS, and at the moment I am at the stages of learning JavaScript. I live in Russia.
 
-<!--
-**rinat-akhmetvaleev/rinat-akhmetvaleev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/80px-HTML5_logo_and_wordmark.svg.png) 
+![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/57px-CSS3_logo_and_wordmark.svg.png) 
+![JS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/80px-Unofficial_JavaScript_logo_2.svg.png)
+![GitHub](https://avatars.githubusercontent.com/u/9919?s=80&v=4)
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_web_deve1oper_//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/rinat-akhmetvaleev)  
